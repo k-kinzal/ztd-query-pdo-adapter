@@ -20,7 +20,6 @@
     "k-kinzal/php-ai-toolkit": "dev-main",
     "k-kinzal/sql-faker": "dev-main",
     "k-kinzal/sql-fixture": "dev-main",
-    "k-kinzal/testcontainers-php": "^0.5.1",
     "k-kinzal/ztd-query-mysql": "dev-main",
     "k-kinzal/ztd-query-postgres": "dev-main",
     "k-kinzal/ztd-query-sqlite": "dev-main",
