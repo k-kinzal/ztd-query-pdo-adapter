@@ -28,7 +28,8 @@
     "phpstan/phpstan": "^2.1",
     "phpstan/phpstan-strict-rules": "^2.0",
     "phpunit/phpunit": "^10.5",
-    "squizlabs/php_codesniffer": "^4.0.4"
+    "squizlabs/php_codesniffer": "^4.0.4",
+    "k-kinzal/testcontainers-php": "^0.5.1"
   },
   "suggest": {
     "k-kinzal/ztd-query-mysql": "Required for MySQL support (PDO driver: mysql)",
@@ -51,7 +52,8 @@
     "psr-4": {
       "Tests\\": "tests/",
       "Fuzz\\": "fuzz/",
-      "Bench\\": "bench/"
+      "Bench\\": "bench/",
+      "Container\\": "container/"
     }
   },
   "scripts": {
